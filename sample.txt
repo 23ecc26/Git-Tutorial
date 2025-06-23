@@ -8,3 +8,10 @@ GIT HUB
       * Supports open-source and private projects: You can make your code public or keep it private.
 
       * Offers tools for issue tracking, code review, and project management.
+
+
+GIT
+     Git is a distributed version control system used to track changes in source code during software development.
+It allows multiple people to work on a project, manage changes, and collaborate efficiently.
+
+
