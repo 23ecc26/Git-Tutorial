@@ -1,10 +1,10 @@
 GIT HUB
-      Hosts code repositories: You can store your project’s code online.
+      * Hosts code repositories: You can store your project’s code online.
 
-      Tracks changes: GitHub keeps a history of all changes made to files, so you can see who changed what and when.
+      * Tracks changes: GitHub keeps a history of all changes made to files, so you can see who changed what and when.
 
-      Facilitates collaboration: Multiple people can work on the same project simultaneously without overwriting each other’s work.
+      * Facilitates collaboration: Multiple people can work on the same project simultaneously without overwriting each other’s work.
 
-      Supports open-source and private projects: You can make your code public or keep it private.
+      * Supports open-source and private projects: You can make your code public or keep it private.
 
-      Offers tools for issue tracking, code review, and project management.
+      * Offers tools for issue tracking, code review, and project management.
