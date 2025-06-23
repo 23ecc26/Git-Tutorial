@@ -1,0 +1,7 @@
+Version Control: Tracks history of every file.
+
+Branching and Merging: You can work on separate branches and merge changes.
+
+Distributed: Every developer has a full copy of the project.
+
+Fast and Lightweight: Performs most operations locally, very fast.
